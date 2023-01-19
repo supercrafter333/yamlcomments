@@ -1,6 +1,6 @@
 name: yamlcomments
-version: 1.0.0
+version: 1.0.1
 antigen: arisify\yamlcomments
-php: [8.0]
+php: [8.1]
 authors: [Arie]
 description: A PMMP virion pasting YAML comments
